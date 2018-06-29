@@ -1,7 +1,6 @@
 ## About this Fork
-```
-This fork maintains node v0.10.x support by locking the gdal version to 0.9.6: https://github.com/itsjohnward/tilemill/commit/013170abd6ad4ba199b70233c652b421f0fc0d0b
-```
+
+> This fork maintains node v0.10.x support by locking the gdal version to 0.9.6: https://github.com/itsjohnward/tilemill/commit/013170abd6ad4ba199b70233c652b421f0fc0d0b
 
 ---
 
