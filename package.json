@@ -61,7 +61,8 @@
     "tilelive": "~5.12.1",
     "tilelive-mapnik": "~0.6.16 ",
     "underscore": "~1.6.0",
-    "wax": "6.4.2"
+    "wax": "6.4.2",
+    "zipfile": "0.5.11"
   },
   "optionalDependencies": {
     "topcube": "https://github.com/creationix/topcube/tarball/96ff0177bf8f490cabd78e"
